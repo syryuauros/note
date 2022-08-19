@@ -55,8 +55,8 @@ A1. OO는 실제로 본 적이 없습니다.
 **  DNA-based self-assembly towards programmable nanoscale patterning [[https://www.nature.com/articles/ncomms5889][link]]
 
 #+ATTR_HTML: :alt figure1
-#+ATTR_HTML: :width 300 :style border:2px solid black;
-[[/img/https://www.nature.com/articles/ncomms5889/figures/1][Monocerus glauc]]
+
+(async-shell-command "wget -O /tmp/image.jpg https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms5889/MediaObjects/41467_2014_Article_BFncomms5889_Fig1_HTML.jpg?as=webp")
 
 intro - how to build thing : top-down or bottom-up
 SAM limit - hard to control, traditional bottom-up limit - too slow
