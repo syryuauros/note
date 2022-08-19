@@ -1,23 +1,25 @@
 
 # Table of Contents
 
-1.  [1st talk (권석준, 성균관대)](#org7cd857f)
-    1.  [Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source](#org014f3ba)
-2.  [2nd talk (우석우, 포항공대)](#org8a65361)
-3.  [3rd talk (정운룡, 포항공대)](#orgfa90c9a)
-    1.  [Microparticle-based patterning and fabrication of deformable devices](#org851b1a1)
+1.  [1st talk (권석준, 성균관대)](#org5f7c60f)
+    1.  [Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source](#orgd337cdb)
+2.  [2nd talk (우석우, 포항공대)](#orgc8d07b1)
+    1.  [DNA-based self-assembly towards programmable nanoscale patterning](#org2639ae3)
+3.  [3rd talk (정운룡, 포항공대)](#org7928ceb)
+    1.  [Microparticle-based patterning and fabrication of deformable devices](#org3c0763d)
 
-[test](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms5889/MediaObjects/41467_2014_Article_BFncomms5889_Fig1_HTML.jpg?as=webp)
 
 
-<a id="org7cd857f"></a>
+<a id="org5f7c60f"></a>
 
 # 1st talk (권석준, 성균관대)
 
 
-<a id="org014f3ba"></a>
+<a id="orgd337cdb"></a>
 
 ## Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source
+
+**keywords**
 
 <table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
 
@@ -108,9 +110,38 @@ Q2. ODP를 많이 보셨느데, OO는 어떻게 보시는지?
 A1. OO는 실제로 본 적이 없습니다.
 
 
-<a id="org8a65361"></a>
+<a id="orgc8d07b1"></a>
 
 # 2nd talk (우석우, 포항공대)
+
+
+<a id="org2639ae3"></a>
+
+## DNA-based self-assembly towards programmable nanoscale patterning
+
+**keywords**
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">DNA origami</td>
+<td class="org-left">hierachical assembly</td>
+<td class="org-left">tubulin DNA ring</td>
+<td class="org-left">20nm scale pattern</td>
+</tr>
+</tbody>
+</table>
 
 intro - how to build thing : top-down or bottom-up
 SAM limit - hard to control, traditional bottom-up limit - too slow
@@ -122,7 +153,8 @@ bacterial flagellum(박테리아 꼬리 부분) , covid19 바이러스 - 굉장�
 simple interation via hierachical assembly
 high reliable and controlled assembly
 
-Hierachical assembly(Woo S & Rothemund P.W.K Nat Commun 5.4889.(2014) - 200nm 10X10 check pattern each has ~20nm
+Hierachical assembly(Woo S & Rothemund P.W.K Nat Commun 5.4889.(2014) [link](https://www.nature.com/articles/ncomms5889)
+200nm 10X10 check pattern each has ~20nm
 surface diffusion assembly
 twist-corrected method
 
@@ -141,16 +173,48 @@ Q1. 스케일링 업에 대해서 어떻게 생각하느냐?
 A1. DNA origami on Si, and orientation allign has been achived recently
 
 
-<a id="orgfa90c9a"></a>
+<a id="org7928ceb"></a>
 
 # 3rd talk (정운룡, 포항공대)
 
 
-<a id="org851b1a1"></a>
+<a id="org3c0763d"></a>
 
 ## Microparticle-based patterning and fabrication of deformable devices
 
-adv.funct.mater 2019 30 1901810 - functionalized particle between or on the electric device
+**keywords**
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">particle embeding</td>
+<td class="org-left">functionalized particle</td>
+<td class="org-left">BCP matrix</td>
+<td class="org-left">position registry</td>
+</tr>
+
+
+<tr>
+<td class="org-left">large area uniform</td>
+<td class="org-left">orientation control</td>
+<td class="org-left">stretchable</td>
+<td class="org-left">&#xa0;</td>
+</tr>
+</tbody>
+</table>
+
+adv.funct.mater 2019 30 1901810 - functionalized particle between or on the electric device [link](https://onlinelibrary.wiley.com/doi/10.1002/adfm.201901810)
 
 1st issue - how functionalize, 2nd - how to position, 3rd - how to apply to device
 
@@ -163,23 +227,23 @@ sysnthesis >> position registry >> device system >> integrated devices
 
 2.  position registry(self assembly) - defect problem - solvent evaporation makes spatial defficiency and it makes uncontrollable defect
 
-hydrophilic particle monolayer on water surface: dispersion of particle in EtOH and then dispose to water surface >> defect problem, multiple grains >> need forced assembly >> making pattern by lithography and deposit particle, but expensive and too sensitive >> park & jeong et al adv mater (2014) 26,4633 (rubbing particle on the PDMS)
+hydrophilic particle monolayer on water surface: dispersion of particle in EtOH and then dispose to water surface >> defect problem, multiple grains >> need forced assembly >> making pattern by lithography and deposit particle, but expensive and too sensitive >> park & jeong et al adv mater (2014) 26,4633 (rubbing particle on the PDMS) [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201305875)
 
 calculate hamaker constant and JKR theory, tack energy(viscocity) dependency on coordination number. over 130nm sphere particle is well fabricated by the rubbing method
 
-orientation change (grain control) by rubbing direction (sci.report 2015,5,8340)
+orientation change (grain control) by rubbing direction (sci.report 2015,5,8340)  [link](https://www.nature.com/articles/srep08340)
 patterning by rubbing method
 wafer scale monolayer by one directional rubbing (disposal of grain defect but still point defect)
 
 acs app lmater interfaces 2015 kho and jeong
 patterned PDMS and apply rubbing method
 
-adv funct.mater 2018 1801858 you & jeong - use lithography for positioning, and making devices using MPs as sensor
+adv funct.mater 2018 1801858 you & jeong - use lithography for positioning, and making devices using MPs as sensor [link](https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201801858)
 
 1.  device system (stable system)
 
 stretchable, adhesive, simple switching, circuit-MCU interface, cross-talk(각 픽셀끼리 간섭하는 정도를 나타내는 척도)
-sci advances 2021 eabh0171, hwang kong jeong - stretchable ACF (잡아당겨도 전기저항의 변화가 거의 없는 stretchable substrate)
+sci advances 2021 eabh0171, hwang kong jeong - stretchable ACF (잡아당겨도 전기저항의 변화가 거의 없는 stretchable substrate)[link](https://www.science.org/doi/10.1126/sciadv.abh0171)
 
 1.  final purpose
 

@@ -1,14 +1,9 @@
 
 #+SETUPFILE: note.cfg
-#+keywords: BCP, topological defect, measurement complexity, hermans parameter, configuration entropy, MFEP(Minimum FreeEnergy Path), fluctuation, temperature, computational design, recipie finding with ML
-
 
 * 1st talk (권석준, 성균관대)
 **  Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source
-
-
-keywords
-
+*keywords*
 | keywords          | BCP(Block CoPolymer)  | topological defect   | measurement complexity  |
 | hermans parameter | configuration entropy | MFEP                 | Minimum FreeEnergy Path |
 | fluctuation       | temperature           | computational design | recipie finding with ML |
@@ -58,6 +53,9 @@ A1. OO는 실제로 본 적이 없습니다.
 
 * 2nd talk (우석우, 포항공대)
 
+**  DNA-based self-assembly towards programmable nanoscale patterning
+*keywords*
+| DNA origami | hierachical assembly | tubulin DNA ring | 20nm scale pattern |
 
 intro - how to build thing : top-down or bottom-up
 SAM limit - hard to control, traditional bottom-up limit - too slow
@@ -69,7 +67,8 @@ bacterial flagellum(박테리아 꼬리 부분) , covid19 바이러스 - 굉장�
 simple interation via hierachical assembly
 high reliable and controlled assembly
 
-Hierachical assembly(Woo S & Rothemund P.W.K Nat Commun 5.4889.(2014) - 200nm 10X10 check pattern each has ~20nm
+Hierachical assembly(Woo S & Rothemund P.W.K Nat Commun 5.4889.(2014) [[https://www.nature.com/articles/ncomms5889][link]]
+200nm 10X10 check pattern each has ~20nm
 surface diffusion assembly
 twist-corrected method
 
@@ -90,8 +89,11 @@ A1. DNA origami on Si, and orientation allign has been achived recently
 
 * 3rd talk (정운룡, 포항공대)
 **  Microparticle-based patterning and fabrication of deformable devices
+*keywords*
+| particle embeding  | functionalized particle | BCP matrix  | position registry |
+| large area uniform | orientation control     | stretchable |                   |
 
-adv.funct.mater 2019 30 1901810 - functionalized particle between or on the electric device
+adv.funct.mater 2019 30 1901810 - functionalized particle between or on the electric device [[https://onlinelibrary.wiley.com/doi/10.1002/adfm.201901810][link]]
 
 1st issue - how functionalize, 2nd - how to position, 3rd - how to apply to device
 
@@ -103,22 +105,22 @@ sysnthesis >> position registry >> device system >> integrated devices
 a. synthesis - conductive or magnetic particle >> uniform metal coated polymer particle is most useful
 
 b. position registry(self assembly) - defect problem - solvent evaporation makes spatial defficiency and it makes uncontrollable defect
-hydrophilic particle monolayer on water surface: dispersion of particle in EtOH and then dispose to water surface >> defect problem, multiple grains >> need forced assembly >> making pattern by lithography and deposit particle, but expensive and too sensitive >> park & jeong et al adv mater (2014) 26,4633 (rubbing particle on the PDMS)
+hydrophilic particle monolayer on water surface: dispersion of particle in EtOH and then dispose to water surface >> defect problem, multiple grains >> need forced assembly >> making pattern by lithography and deposit particle, but expensive and too sensitive >> park & jeong et al adv mater (2014) 26,4633 (rubbing particle on the PDMS) [[https://onlinelibrary.wiley.com/doi/abs/10.1002/adma.201305875][link]]
 
 calculate hamaker constant and JKR theory, tack energy(viscocity) dependency on coordination number. over 130nm sphere particle is well fabricated by the rubbing method
 
-orientation change (grain control) by rubbing direction (sci.report 2015,5,8340)
+orientation change (grain control) by rubbing direction (sci.report 2015,5,8340)  [[https://www.nature.com/articles/srep08340][link]]
 patterning by rubbing method
 wafer scale monolayer by one directional rubbing (disposal of grain defect but still point defect)
 
 acs app lmater interfaces 2015 kho and jeong
 patterned PDMS and apply rubbing method
 
-adv funct.mater 2018 1801858 you & jeong - use lithography for positioning, and making devices using MPs as sensor
+adv funct.mater 2018 1801858 you & jeong - use lithography for positioning, and making devices using MPs as sensor [[https://onlinelibrary.wiley.com/doi/abs/10.1002/adfm.201801858][link]]
 
 c. device system (stable system)
 stretchable, adhesive, simple switching, circuit-MCU interface, cross-talk(각 픽셀끼리 간섭하는 정도를 나타내는 척도)
-sci advances 2021 eabh0171, hwang kong jeong - stretchable ACF (잡아당겨도 전기저항의 변화가 거의 없는 stretchable substrate)
+sci advances 2021 eabh0171, hwang kong jeong - stretchable ACF (잡아당겨도 전기저항의 변화가 거의 없는 stretchable substrate)[[https://www.science.org/doi/10.1126/sciadv.abh0171][link]]
 
 d. final purpose
 small device + stretchable conduction line
