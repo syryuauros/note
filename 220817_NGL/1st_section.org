@@ -56,7 +56,7 @@ A1. OO는 실제로 본 적이 없습니다.
 
 #+ATTR_HTML: :alt figure1
 #+ATTR_HTML: :width 300 :style border:2px solid black;
-[[https://www.nature.com/articles/ncomms5889]]
+[[https://www.nature.com/articles/ncomms5889/figures/1]]
 
 intro - how to build thing : top-down or bottom-up
 SAM limit - hard to control, traditional bottom-up limit - too slow
