@@ -1,23 +1,61 @@
 
 # Table of Contents
 
-1.  [1st talk (권석준, 성균관대)](#org5645f7a)
-    1.  [Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source](#orgd651e9f)
-2.  [2nd talk (우석우, 포항공대)](#org7a85e5b)
-    1.  [DNA-based self-assembly towards programmable nanoscale patterning](#orge7d0ae1)
-3.  [3rd talk (정운룡, 포항공대)](#orgc8a2ce2)
-    1.  [Microparticle-based patterning and fabrication of deformable devices](#org6ec0065)
+1.  [1st talk (권석준, 성균관대)](#org7cd857f)
+    1.  [Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source](#org014f3ba)
+2.  [2nd talk (우석우, 포항공대)](#org8a65361)
+3.  [3rd talk (정운룡, 포항공대)](#orgfa90c9a)
+    1.  [Microparticle-based patterning and fabrication of deformable devices](#org851b1a1)
+
+[test](https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms5889/MediaObjects/41467_2014_Article_BFncomms5889_Fig1_HTML.jpg?as=webp)
 
 
-
-<a id="org5645f7a"></a>
+<a id="org7cd857f"></a>
 
 # 1st talk (권석준, 성균관대)
 
 
-<a id="orgd651e9f"></a>
+<a id="org014f3ba"></a>
 
 ## Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source
+
+<table border="2" cellspacing="0" cellpadding="6" rules="groups" frame="hsides">
+
+
+<colgroup>
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+
+<col  class="org-left" />
+</colgroup>
+<tbody>
+<tr>
+<td class="org-left">keywords</td>
+<td class="org-left">BCP(Block CoPolymer)</td>
+<td class="org-left">topological defect</td>
+<td class="org-left">measurement complexity</td>
+</tr>
+
+
+<tr>
+<td class="org-left">hermans parameter</td>
+<td class="org-left">configuration entropy</td>
+<td class="org-left">MFEP</td>
+<td class="org-left">Minimum FreeEnergy Path</td>
+</tr>
+
+
+<tr>
+<td class="org-left">fluctuation</td>
+<td class="org-left">temperature</td>
+<td class="org-left">computational design</td>
+<td class="org-left">recipie finding with ML</td>
+</tr>
+</tbody>
+</table>
 
 overcome effort - using complexity
 
@@ -70,14 +108,9 @@ Q2. ODP를 많이 보셨느데, OO는 어떻게 보시는지?
 A1. OO는 실제로 본 적이 없습니다.
 
 
-<a id="org7a85e5b"></a>
+<a id="org8a65361"></a>
 
 # 2nd talk (우석우, 포항공대)
-
-
-<a id="orge7d0ae1"></a>
-
-## DNA-based self-assembly towards programmable nanoscale patterning
 
 intro - how to build thing : top-down or bottom-up
 SAM limit - hard to control, traditional bottom-up limit - too slow
@@ -108,12 +141,12 @@ Q1. 스케일링 업에 대해서 어떻게 생각하느냐?
 A1. DNA origami on Si, and orientation allign has been achived recently
 
 
-<a id="orgc8a2ce2"></a>
+<a id="orgfa90c9a"></a>
 
 # 3rd talk (정운룡, 포항공대)
 
 
-<a id="org6ec0065"></a>
+<a id="org851b1a1"></a>
 
 ## Microparticle-based patterning and fabrication of deformable devices
 
