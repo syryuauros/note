@@ -1,6 +1,8 @@
 
 #+SETUPFILE: note.cfg
 
+[[img:https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms5889/MediaObjects/41467_2014_Article_BFncomms5889_Fig1_HTML.jpg?as=webp][test]]
+
 * 1st talk (권석준, 성균관대)
 **  Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source
 
@@ -52,9 +54,6 @@ Q2. ODP를 많이 보셨느데, OO는 어떻게 보시는지?
 A1. OO는 실제로 본 적이 없습니다.
 
 * 2nd talk (우석우, 포항공대)
-**  DNA-based self-assembly towards programmable nanoscale patterning [[https://www.nature.com/articles/ncomms5889][link]]
-
-[[https://my.photos.domain/2021/06/IMG_2022.jpg][Image]]
 
 
 intro - how to build thing : top-down or bottom-up
