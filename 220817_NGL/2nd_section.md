@@ -1,39 +1,21 @@
 
 # Table of Contents
 
-1.  [Block-copolymer self-assembly-based nano-patterns with controlled complexity](#org6373531)
-    1.  [(복잡도 제어가 된 블록공중합체 자기조립 나노패턴)](#orgaf2d59d)
-    2.  [좌장 : 이승우(고려대)](#org5a36fde)
-2.  [1st talk (권석준, 성균관대)](#org372dd12)
-    1.  [Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source](#orgf9627a6)
-3.  [2nd talk (우석우, 포항공대)](#orgb8a680c)
-    1.  [DNA-based self-assembly towards programmable nanoscale patterning](#orga93810c)
-4.  [3rd talk (정운룡, 포항공대)](#orga91b585)
-    1.  [Microparticle-based patterning and fabrication of deformable devices](#org8d04ef5)
+1.  [1st talk (권석준, 성균관대)](#org9b750fc)
+    1.  [Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source](#orgdc395d4)
+2.  [2nd talk (우석우, 포항공대)](#org4b12de2)
+    1.  [DNA-based self-assembly towards programmable nanoscale patterning](#orgfb220de)
+3.  [3rd talk (정운룡, 포항공대)](#orgdd19d52)
+    1.  [Microparticle-based patterning and fabrication of deformable devices](#orgb2313f0)
 
 
 
-<a id="org6373531"></a>
-
-# Block-copolymer self-assembly-based nano-patterns with controlled complexity
-
-
-<a id="orgaf2d59d"></a>
-
-## (복잡도 제어가 된 블록공중합체 자기조립 나노패턴)
-
-
-<a id="org5a36fde"></a>
-
-## 좌장 : 이승우(고려대)
-
-
-<a id="org372dd12"></a>
+<a id="org9b750fc"></a>
 
 # 1st talk (권석준, 성균관대)
 
 
-<a id="orgf9627a6"></a>
+<a id="orgdc395d4"></a>
 
 ## Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source
 
@@ -128,12 +110,12 @@ Q2. ODP를 많이 보셨느데, OO는 어떻게 보시는지?
 A1. OO는 실제로 본 적이 없습니다.
 
 
-<a id="orgb8a680c"></a>
+<a id="org4b12de2"></a>
 
 # 2nd talk (우석우, 포항공대)
 
 
-<a id="orga93810c"></a>
+<a id="orgfb220de"></a>
 
 ## DNA-based self-assembly towards programmable nanoscale patterning
 
@@ -191,12 +173,12 @@ Q1. 스케일링 업에 대해서 어떻게 생각하느냐?
 A1. DNA origami on Si, and orientation allign has been achived recently
 
 
-<a id="orga91b585"></a>
+<a id="orgdd19d52"></a>
 
 # 3rd talk (정운룡, 포항공대)
 
 
-<a id="org8d04ef5"></a>
+<a id="orgb2313f0"></a>
 
 ## Microparticle-based patterning and fabrication of deformable devices
 
