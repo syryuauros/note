@@ -86,8 +86,8 @@ A1. DNA origami on Si, and orientation allign has been achived recently
 * 3rd talk (정운룡, 포항공대)
 **  Microparticle-based patterning and fabrication of deformable devices
 
-adv.funct.mater 2019 30 1901810 - functionalized particle between or on the electric device
-
+adv.funct.mater 2019 30 1901810 - functionalized particle between or on the electric device [[https://www.nature.com/articles/ncomms5889][link]]
+[[https://www.nature.com/articles/ncomms5889/figures/1][figure1]]
 1st issue - how functionalize, 2nd - how to position, 3rd - how to apply to device
 
 why? make rigid deformable, anisotropic onductive film, bottom-up devices
