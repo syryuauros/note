@@ -52,7 +52,10 @@ Q2. ODP를 많이 보셨느데, OO는 어떻게 보시는지?
 A1. OO는 실제로 본 적이 없습니다.
 
 * 2nd talk (우석우, 포항공대)
-**  DNA-based self-assembly towards programmable nanoscale patterning
+**  DNA-based self-assembly towards programmable nanoscale patterning [[https://www.nature.com/articles/ncomms5889][link]]
+
+#+NAME: fig
+[[https://www.nature.com/articles/ncomms5889/figures/1][figure1]]
 
 intro - how to build thing : top-down or bottom-up
 SAM limit - hard to control, traditional bottom-up limit - too slow
@@ -86,8 +89,8 @@ A1. DNA origami on Si, and orientation allign has been achived recently
 * 3rd talk (정운룡, 포항공대)
 **  Microparticle-based patterning and fabrication of deformable devices
 
-adv.funct.mater 2019 30 1901810 - functionalized particle between or on the electric device [[https://www.nature.com/articles/ncomms5889][link]]
-[[https://www.nature.com/articles/ncomms5889/figures/1][figure1]]
+adv.funct.mater 2019 30 1901810 - functionalized particle between or on the electric device
+
 1st issue - how functionalize, 2nd - how to position, 3rd - how to apply to device
 
 why? make rigid deformable, anisotropic onductive film, bottom-up devices
