@@ -6,7 +6,7 @@
           (setq value (eval (read value))))
 #+MACRO: newline (eval "\n")
 #+MACRO: img (eval "#+CAPTION: $1\nfile:$2")
-{{{img(hello world!, ./img1.jpg)}}}
+{{{img(hello world!, ./img1.png)}}}
 #+CAPTION: hello world!
 file:./img1.png
 
