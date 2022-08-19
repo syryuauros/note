@@ -54,9 +54,8 @@ A1. OO는 실제로 본 적이 없습니다.
 * 2nd talk (우석우, 포항공대)
 **  DNA-based self-assembly towards programmable nanoscale patterning [[https://www.nature.com/articles/ncomms5889][link]]
 
-#+ATTR_HTML: :alt figure1
+[[https://my.photos.domain/2021/06/IMG_2022.jpg][Image]]
 
-[[imghttps://64.media.tumblr.com/tumblr_m6d80q6QJK1qcgf56o1_1280.jpg]]
 
 intro - how to build thing : top-down or bottom-up
 SAM limit - hard to control, traditional bottom-up limit - too slow
