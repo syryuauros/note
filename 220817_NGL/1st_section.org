@@ -1,7 +1,9 @@
 
 #+SETUPFILE: note.cfg
 
-#+LINK: image https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fncomms5889/MediaObjects/41467_2014_Article_BFncomms5889_Fig1_HTML.jpg?as=webp
+#+LINK: duckduckgo https://duckduckgo.com/?q=%s
+
+duckduckgo
 
 * 1st talk (권석준, 성균관대)
 **  Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source
