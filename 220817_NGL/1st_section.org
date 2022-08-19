@@ -4,6 +4,10 @@
 * 1st talk (권석준, 성균관대)
 **  Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source
 
+| keywords          | BCP(Block CoPolymer)  | topological defect   | measurement complexity  |
+| hermans parameter | configuration entropy | MFEP                 | Minimum FreeEnergy Path |
+| fluctuation       | temperature           | computational design | recipie finding with ML |
+
 overcome effort - using complexity
 a. controlling defect >> need for understanding of complexity and the technology of control >> entropy, enthalpy
 PS blush layer >> >>ordered state(crystal state) >> disordered state(liquid state)
