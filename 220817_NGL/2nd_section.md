@@ -1,21 +1,23 @@
 
 # Table of Contents
 
-1.  [1st talk (권석준, 성균관대)](#org9b750fc)
-    1.  [Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source](#orgdc395d4)
-2.  [2nd talk (우석우, 포항공대)](#org4b12de2)
-    1.  [DNA-based self-assembly towards programmable nanoscale patterning](#orgfb220de)
-3.  [3rd talk (정운룡, 포항공대)](#orgdd19d52)
-    1.  [Microparticle-based patterning and fabrication of deformable devices](#orgb2313f0)
+1.  [1st talk (권석준, 성균관대)](#org255d443)
+    1.  [Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source](#org61b14b3)
+2.  [2nd talk (우석우, 포항공대)](#org31ce6da)
+    1.  [DNA-based self-assembly towards programmable nanoscale patterning](#org10df208)
+3.  [3rd talk (정운룡, 포항공대)](#orgd188f48)
+    1.  [Microparticle-based patterning and fabrication of deformable devices](#org4db7285)
+
+-   **(복잡도 제어가 된 블록공중합체 자기조립 나노패턴)**
+-   **좌장 : 이승우(고려대)**
 
 
-
-<a id="org9b750fc"></a>
+<a id="org255d443"></a>
 
 # 1st talk (권석준, 성균관대)
 
 
-<a id="orgdc395d4"></a>
+<a id="org61b14b3"></a>
 
 ## Limit of modern nano-electronics - no reliable light source, monochromatic process of under 13.5nm light source
 
@@ -110,12 +112,12 @@ Q2. ODP를 많이 보셨느데, OO는 어떻게 보시는지?
 A1. OO는 실제로 본 적이 없습니다.
 
 
-<a id="org4b12de2"></a>
+<a id="org31ce6da"></a>
 
 # 2nd talk (우석우, 포항공대)
 
 
-<a id="orgfb220de"></a>
+<a id="org10df208"></a>
 
 ## DNA-based self-assembly towards programmable nanoscale patterning
 
@@ -173,12 +175,12 @@ Q1. 스케일링 업에 대해서 어떻게 생각하느냐?
 A1. DNA origami on Si, and orientation allign has been achived recently
 
 
-<a id="orgdd19d52"></a>
+<a id="orgd188f48"></a>
 
 # 3rd talk (정운룡, 포항공대)
 
 
-<a id="orgb2313f0"></a>
+<a id="org4db7285"></a>
 
 ## Microparticle-based patterning and fabrication of deformable devices
 
