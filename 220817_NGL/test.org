@@ -1,0 +1,16 @@
+
+#+SETUPFILE: test.cfg
+
+;; VALUE starts with "(eval": it is a s-exp, `eval' it.
+        (when (string-match "\\`(eval\\>" value)
+          (setq value (eval (read value))))
+#+MACRO: newline (eval "\n")
+#+MACRO: img (eval "#+CAPTION: $1\nfile:$2")
+{{{img(hello world!, ./img1.jpg)}}}
+#+CAPTION: hello world!
+file:./img1.png
+
+
+
+
+* 1st talk (권석준, 성균관대)
