@@ -1,6 +1,8 @@
 
 #+SETUPFILE: note.cfg
-#+title: Block-copolymer self-assembly-based nano-patterns with controlled complexity (복잡도 제어가 된 블록공중합체 자기조립 나노패턴)   좌장 : 이승우(고려대)
+* Block-copolymer self-assembly-based nano-patterns with controlled complexity
+**  (복잡도 제어가 된 블록공중합체 자기조립 나노패턴)
+** 좌장 : 이승우(고려대)
 
 
 
